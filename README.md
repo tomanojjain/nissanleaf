@@ -2,8 +2,8 @@
 
 ## Environments
 
-- Preview: https://main--nissanleaf--sherest.hlx.page/
-- Live: https://main--nissanleaf--sherest.hlx.live/
+- Preview: https://main--nissanleaf--tomanojjain.hlx.page/
+- Live: https://main--nissanleaf--tomanojjain.hlx.live/
 
 ## Installation
 
