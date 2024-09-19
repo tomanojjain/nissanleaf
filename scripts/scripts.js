@@ -51,6 +51,8 @@ const AUDIENCES = {
   // define your custom audiences here as needed
 };
 
+const config = await getConfig();
+
 /**
  * Gets all the metadata elements that are in the given scope.
  * @param {String} scope The scope/prefix for the metadata
@@ -467,11 +469,7 @@ export function getBlockPlaceholderInfo(block) {
   return object;
 }
 
-export function buildAdventureBreadcrumbs() {
- 
-  const yotpoApiKey = await getConfigValue('yotpo-api-key');
-
-  
+export function buildAdventureBreadcrumbs() { 
   const path = window.location.pathname.split('/').slice(1).map((word) => word.charAt(0).toUpperCase() + word.slice(1).replace(/-/g, ' '));
   const breadcrumbContainer = document.createElement('div');
   breadcrumbContainer.className = 'breadcrumb-wrapper';
