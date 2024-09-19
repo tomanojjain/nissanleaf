@@ -468,6 +468,10 @@ export function getBlockPlaceholderInfo(block) {
 }
 
 export function buildAdventureBreadcrumbs() {
+ 
+  const yotpoApiKey = await getConfigValue('yotpo-api-key');
+
+  
   const path = window.location.pathname.split('/').slice(1).map((word) => word.charAt(0).toUpperCase() + word.slice(1).replace(/-/g, ' '));
   const breadcrumbContainer = document.createElement('div');
   breadcrumbContainer.className = 'breadcrumb-wrapper';
