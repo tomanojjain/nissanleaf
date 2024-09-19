@@ -19,6 +19,8 @@ import {
   waitForLCP,
 } from './aem.js';
 
+import { getConfigValue } from './configs.js';
+
 // import initializeDropins from './dropins.js';
 
 // Define an execution context
