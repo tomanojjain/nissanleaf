@@ -1,6 +1,6 @@
 import { getMetadata } from '../../scripts/aem.js';
 import { loadFragment } from '../fragment/fragment.js';
-import { getConfig } from "../../scripts/configs.js";
+// import { getConfig } from "../../scripts/configs.js";
 
 
 // media query match that indicates mobile/tablet width
