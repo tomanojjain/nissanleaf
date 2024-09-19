@@ -6,7 +6,7 @@ import { getConfig } from "../../scripts/configs.js";
 // media query match that indicates mobile/tablet width
 const isDesktop = window.matchMedia('(min-width: 900px)');
 
-const config = await getConfig();
+// const config = await getConfig();
 
 
 function closeOnEscape(e) {
