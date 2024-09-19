@@ -6,6 +6,9 @@ import { getConfig } from "../../scripts/configs.js";
 // media query match that indicates mobile/tablet width
 const isDesktop = window.matchMedia('(min-width: 900px)');
 
+const config = await getConfig();
+
+
 function closeOnEscape(e) {
   if (e.code === 'Escape') {
     const nav = document.getElementById('nav');
@@ -213,8 +216,6 @@ export default async function decorate(block) {
     liElem.append(languageSelector);
     navTools.querySelector('ul').prepend(liElem);
   }
-
-  const config = await getConfig();
 
   // hamburger for mobile
   const hamburger = document.createElement('div');
