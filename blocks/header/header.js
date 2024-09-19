@@ -1,5 +1,7 @@
 import { getMetadata } from '../../scripts/aem.js';
 import { loadFragment } from '../fragment/fragment.js';
+import { getConfig } from "../../scripts/configs.js";
+
 
 // media query match that indicates mobile/tablet width
 const isDesktop = window.matchMedia('(min-width: 900px)');
@@ -211,6 +213,8 @@ export default async function decorate(block) {
     liElem.append(languageSelector);
     navTools.querySelector('ul').prepend(liElem);
   }
+
+  const config = await getConfig();
 
   // hamburger for mobile
   const hamburger = document.createElement('div');
