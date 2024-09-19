@@ -1,0 +1,650 @@
+{
+  "prod": {
+    "total": 29,
+    "offset": 0,
+    "limit": 29,
+    "data": [
+      {
+        "key": "commerce-endpoint",
+        "value": "https://www.bulk.com/uk/cs-graphql"
+      },
+      {
+        "key": "commerce-environment-id",
+        "value": "bf658f50-a0ce-4baa-b707-a7622f75a311"
+      },
+      {
+        "key": "commerce-website-code",
+        "value": "bulkpowders"
+      },
+      {
+        "key": "commerce-store-view-code",
+        "value": "bulkpowders_store"
+      },
+      {
+        "key": "commerce-store-code",
+        "value": "bulk_powders_main"
+      },
+      {
+        "key": "commerce-customer-group",
+        "value": "0"
+      },
+      {
+        "key": "commerce-x-api-key",
+        "value": "d3f6d917148f42d5bb7eb7eb3272cf0e"
+      },
+      {
+        "key": "commerce-core-endpoint",
+        "value": "https://www.bulk.com/uk/graphql/"
+      },
+      {
+        "key": "store-locale",
+        "value": "en-GB"
+      },
+      {
+        "key": "store-currency-code",
+        "value": "GBP"
+      },
+      {
+        "key": "yotpo-api-key",
+        "value": "8qi5Pd6D81Dh5yqiT4qAvqVcOA96nbm27hdvOyYx"
+      },
+      {
+        "key": "gtm-container-id",
+        "value": "GTM-TZGW9NQV"
+      },
+      {
+        "key": "minimum-order-threshold",
+        "value": "39"
+      },
+      {
+        "key": "onetrust-data-domain",
+        "value": "018f715f-c416-7a2c-89a0-a05d9e3f340c"
+      },
+      {
+        "key": "onetrust-language",
+        "value": "en"
+      },
+      {
+        "key": "clarity-project-id",
+        "value": "l7sagrcwz9"
+      },
+      {
+        "key": "commerce-environment",
+        "value": "Production"
+      },
+      {
+        "key": "commerce-store-url",
+        "value": "https://www.bulk.com/uk"
+      },
+      {
+        "key": "commerce-website-id",
+        "value": "2"
+      },
+      {
+        "key": "commerce-store-id",
+        "value": "2"
+      },
+      {
+        "key": "commerce-store-view-id",
+        "value": "2"
+      },
+      {
+        "key": "commerce-website-name",
+        "value": "Bulk Powders"
+      },
+      {
+        "key": "commerce-store-name",
+        "value": "Bulk Powders Main"
+      },
+      {
+        "key": "commerce-store-view-name",
+        "value": "Bulk Powders"
+      },
+      {
+        "key": "commerce-base-currency-code",
+        "value": "GBP"
+      },
+      {
+        "key": "trustpilot-businessunitId",
+        "value": "60a291a6d83b380001949793"
+      },
+      {
+        "key": "trustpilot-pdp-templateId",
+        "value": "5419b732fbfb950b10de65e5"
+      },
+      {
+        "key": "trustpilot-footer-templateId",
+        "value": "53aa8912dec7e10d38f59f36"
+      },
+      {
+        "key": "trustpilot-footer-stars",
+        "value": "4,5"
+      }
+    ]
+  },
+  "preprod": {
+    "total": 29,
+    "offset": 0,
+    "limit": 29,
+    "data": [
+      {
+        "key": "commerce-endpoint",
+        "value": "https://preprod.bulk.com/uk/cs-graphql"
+      },
+      {
+        "key": "commerce-environment-id",
+        "value": "ebe49994-2772-408a-aa61-b0ee1e66b6a3"
+      },
+      {
+        "key": "commerce-website-code",
+        "value": "bulkpowders"
+      },
+      {
+        "key": "commerce-store-view-code",
+        "value": "bulkpowders_store"
+      },
+      {
+        "key": "commerce-store-code",
+        "value": "bulk_powders_main"
+      },
+      {
+        "key": "commerce-customer-group",
+        "value": "0"
+      },
+      {
+        "key": "commerce-x-api-key",
+        "value": "1684b7b69b33420d80f415546634346d"
+      },
+      {
+        "key": "commerce-core-endpoint",
+        "value": "https://preprod.bulk.com/uk/graphql/"
+      },
+      {
+        "key": "store-locale",
+        "value": "en-GB"
+      },
+      {
+        "key": "store-currency-code",
+        "value": "GBP"
+      },
+      {
+        "key": "yotpo-api-key",
+        "value": "8qi5Pd6D81Dh5yqiT4qAvqVcOA96nbm27hdvOyYx"
+      },
+      {
+        "key": "gtm-container-id",
+        "value": "GTM-WM3PM9FC"
+      },
+      {
+        "key": "minimum-order-threshold",
+        "value": "60"
+      },
+      {
+        "key": "onetrust-data-domain",
+        "value": "018f38a6-70f6-7c4b-a716-1c4b26aec53a-test"
+      },
+      {
+        "key": "onetrust-language",
+        "value": "en"
+      },
+      {
+        "key": "clarity-project-id",
+        "value": ""
+      },
+      {
+        "key": "commerce-environment",
+        "value": "Testing"
+      },
+      {
+        "key": "commerce-store-url",
+        "value": "https://preprod.bulk.com/uk"
+      },
+      {
+        "key": "commerce-website-id",
+        "value": "2"
+      },
+      {
+        "key": "commerce-store-id",
+        "value": "2"
+      },
+      {
+        "key": "commerce-store-view-id",
+        "value": "2"
+      },
+      {
+        "key": "commerce-website-name",
+        "value": "Bulk Powders"
+      },
+      {
+        "key": "commerce-store-name",
+        "value": "Bulk Powders Main"
+      },
+      {
+        "key": "commerce-store-view-name",
+        "value": "Bulk Powders"
+      },
+      {
+        "key": "commerce-base-currency-code",
+        "value": "GBP"
+      },
+      {
+        "key": "trustpilot-businessunitId",
+        "value": "60a291a6d83b380001949793"
+      },
+      {
+        "key": "trustpilot-pdp-templateId",
+        "value": "5419b732fbfb950b10de65e5"
+      },
+      {
+        "key": "trustpilot-footer-templateId",
+        "value": "53aa8912dec7e10d38f59f36"
+      },
+      {
+        "key": "trustpilot-footer-stars",
+        "value": "4,5"
+      }
+    ]
+  },
+  "sit": {
+    "total": 29,
+    "offset": 0,
+    "limit": 29,
+    "data": [
+      {
+        "key": "commerce-endpoint",
+        "value": "https://sit.bulk.com/uk/cs-graphql"
+      },
+      {
+        "key": "commerce-environment-id",
+        "value": "e132e892-b642-47a0-9987-fa408ce8dec5"
+      },
+      {
+        "key": "commerce-website-code",
+        "value": "bulkpowders"
+      },
+      {
+        "key": "commerce-store-view-code",
+        "value": "bulkpowders_store"
+      },
+      {
+        "key": "commerce-store-code",
+        "value": "bulk_powders_main"
+      },
+      {
+        "key": "commerce-customer-group",
+        "value": "0"
+      },
+      {
+        "key": "commerce-x-api-key",
+        "value": "62b4672aec4a42bf9419864f219c2e68"
+      },
+      {
+        "key": "commerce-core-endpoint",
+        "value": "https://sit.bulk.com/uk/graphql/"
+      },
+      {
+        "key": "store-locale",
+        "value": "en-GB"
+      },
+      {
+        "key": "store-currency-code",
+        "value": "GBP"
+      },
+      {
+        "key": "yotpo-api-key",
+        "value": "hI3iZ2qPjRERTy3mIgSsrNlqPxSmE9AYdtkl3m4D"
+      },
+      {
+        "key": "gtm-container-id",
+        "value": "GTM-5JN8T76Z"
+      },
+      {
+        "key": "minimum-order-threshold",
+        "value": "60"
+      },
+      {
+        "key": "onetrust-data-domain",
+        "value": "018f38a6-70f6-7c4b-a716-1c4b26aec53a-test"
+      },
+      {
+        "key": "onetrust-language",
+        "value": "en"
+      },
+      {
+        "key": "commerce-environment",
+        "value": "Testing"
+      },
+      {
+        "key": "commerce-store-url",
+        "value": "https://sit.bulk.com/uk"
+      },
+      {
+        "key": "commerce-website-id",
+        "value": "2"
+      },
+      {
+        "key": "commerce-store-id",
+        "value": "2"
+      },
+      {
+        "key": "commerce-store-view-id",
+        "value": "2"
+      },
+      {
+        "key": "commerce-website-name",
+        "value": "Bulk Powders"
+      },
+      {
+        "key": "commerce-store-name",
+        "value": "Bulk Powders Main"
+      },
+      {
+        "key": "commerce-store-view-name",
+        "value": "Bulk Powders"
+      },
+      {
+        "key": "commerce-base-currency-code",
+        "value": "GBP"
+      },
+      {
+        "key": "clarity-project-id",
+        "value": ""
+      },
+      {
+        "key": "trustpilot-businessunitId",
+        "value": "60a291a6d83b380001949793"
+      },
+      {
+        "key": "trustpilot-pdp-templateId",
+        "value": "5419b732fbfb950b10de65e5"
+      },
+      {
+        "key": "trustpilot-footer-templateId",
+        "value": "53aa8912dec7e10d38f59f36"
+      },
+      {
+        "key": "trustpilot-footer-stars",
+        "value": "4,5"
+      }
+    ]
+  },
+  "dev": {
+    "total": 32,
+    "offset": 0,
+    "limit": 32,
+    "data": [
+      {
+        "key": "commerce-endpoint",
+        "value": "https://catalog-service-sandbox.adobe.io/graphql"
+      },
+      {
+        "key": "commerce-environment-id",
+        "value": "f933ad10-b86e-42c8-9cae-50fab848cb0b"
+      },
+      {
+        "key": "commerce-website-code",
+        "value": "bulkpowders"
+      },
+      {
+        "key": "commerce-store-view-code",
+        "value": "bulkpowders_store"
+      },
+      {
+        "key": "commerce-store-code",
+        "value": "bulk_powders_main"
+      },
+      {
+        "key": "commerce-customer-group",
+        "value": "0"
+      },
+      {
+        "key": "commerce-x-api-key",
+        "value": "1684b7b69b33420d80f415546634346d"
+      },
+      {
+        "key": "commerce-core-endpoint",
+        "value": "http://bulk.local/uk/graphql"
+      },
+      {
+        "key": "store-locale",
+        "value": "en-GB"
+      },
+      {
+        "key": "store-currency-code",
+        "value": "GBP"
+      },
+      {
+        "key": "yotpo-api-key",
+        "value": "hI3iZ2qPjRERTy3mIgSsrNlqPxSmE9AYdtkl3m4D"
+      },
+      {
+        "key": "gtm-container-id",
+        "value": "GTM-5JN8T76Z"
+      },
+      {
+        "key": "minimum-order-threshold",
+        "value": "39"
+      },
+      {
+        "key": "onetrust-data-domain",
+        "value": "018f38a6-70f6-7c4b-a716-1c4b26aec53a-test"
+      },
+      {
+        "key": "onetrust-language",
+        "value": "en"
+      },
+      {
+        "key": "clarity-project-id",
+        "value": "m8pw33t0eu"
+      },
+      {
+        "key": "commerce-environment",
+        "value": "Testing"
+      },
+      {
+        "key": "commerce-store-url",
+        "value": "https://www.bulk.local/uk"
+      },
+      {
+        "key": "commerce-website-id",
+        "value": "2"
+      },
+      {
+        "key": "commerce-store-id",
+        "value": "2"
+      },
+      {
+        "key": "commerce-store-view-id",
+        "value": "2"
+      },
+      {
+        "key": "commerce-website-name",
+        "value": "Bulk Powders"
+      },
+      {
+        "key": "commerce-store-name",
+        "value": "Bulk Powders Main"
+      },
+      {
+        "key": "commerce-store-view-name",
+        "value": "Bulk Powders"
+      },
+      {
+        "key": "commerce-base-currency-code",
+        "value": "GBP"
+      },
+      {
+        "key": "trustpilot-businessunitId",
+        "value": "60a291a6d83b380001949793"
+      },
+      {
+        "key": "trustpilot-pdp-templateId",
+        "value": "5419b732fbfb950b10de65e5"
+      },
+      {
+        "key": "trustpilot-footer-templateId",
+        "value": "53aa8912dec7e10d38f59f36"
+      },
+      {
+        "key": "trustpilot-footer-stars",
+        "value": "4,5"
+      },
+      {
+        "key": "aep-datastream-id",
+        "value": "298acb45-4c8e-4e71-b315-cb38d54ef742"
+      },
+      {
+        "key": "aep-org-id",
+        "value": "C7016DAB66054E810A495E7A@AdobeOrg"
+      },
+      {
+        "key": "aep-launch-url",
+        "value": "https://assets.adobedtm.com/8d0f7f3dff3a/8d832cf3161b/launch-e77a79f25f2c-development.min.js"
+      }
+    ]
+  },
+  "stage": {
+    "total": 32,
+    "offset": 0,
+    "limit": 32,
+    "data": [
+      {
+        "key": "commerce-endpoint",
+        "value": "https://staging.bulk.com/uk/cs-graphql"
+      },
+      {
+        "key": "commerce-environment-id",
+        "value": "f933ad10-b86e-42c8-9cae-50fab848cb0b"
+      },
+      {
+        "key": "commerce-website-code",
+        "value": "bulkpowders"
+      },
+      {
+        "key": "commerce-store-view-code",
+        "value": "bulkpowders_store"
+      },
+      {
+        "key": "commerce-store-code",
+        "value": "bulk_powders_main"
+      },
+      {
+        "key": "commerce-customer-group",
+        "value": "0"
+      },
+      {
+        "key": "commerce-x-api-key",
+        "value": "1684b7b69b33420d80f415546634346d"
+      },
+      {
+        "key": "commerce-core-endpoint",
+        "value": "https://staging.bulk.com/uk/graphql/"
+      },
+      {
+        "key": "store-locale",
+        "value": "en-GB"
+      },
+      {
+        "key": "store-currency-code",
+        "value": "GBP"
+      },
+      {
+        "key": "yotpo-api-key",
+        "value": "hI3iZ2qPjRERTy3mIgSsrNlqPxSmE9AYdtkl3m4D"
+      },
+      {
+        "key": "gtm-container-id",
+        "value": "GTM-5JN8T76Z"
+      },
+      {
+        "key": "minimum-order-threshold",
+        "value": "60"
+      },
+      {
+        "key": "onetrust-data-domain",
+        "value": "018f38a6-70f6-7c4b-a716-1c4b26aec53a-test"
+      },
+      {
+        "key": "onetrust-language",
+        "value": "en"
+      },
+      {
+        "key": "commerce-environment",
+        "value": "Testing"
+      },
+      {
+        "key": "commerce-store-url",
+        "value": "https://staging.bulk.com/uk"
+      },
+      {
+        "key": "commerce-website-id",
+        "value": "2"
+      },
+      {
+        "key": "commerce-store-id",
+        "value": "2"
+      },
+      {
+        "key": "commerce-store-view-id",
+        "value": "2"
+      },
+      {
+        "key": "commerce-website-name",
+        "value": "Bulk Powders"
+      },
+      {
+        "key": "commerce-store-name",
+        "value": "Bulk Powders Main"
+      },
+      {
+        "key": "commerce-store-view-name",
+        "value": "Bulk Powders"
+      },
+      {
+        "key": "commerce-base-currency-code",
+        "value": "GBP"
+      },
+      {
+        "key": "clarity-project-id",
+        "value": "m8pw33t0eu"
+      },
+      {
+        "key": "trustpilot-businessunitId",
+        "value": "60a291a6d83b380001949793"
+      },
+      {
+        "key": "trustpilot-pdp-templateId",
+        "value": "5419b732fbfb950b10de65e5"
+      },
+      {
+        "key": "trustpilot-footer-templateId",
+        "value": "53aa8912dec7e10d38f59f36"
+      },
+      {
+        "key": "trustpilot-footer-stars",
+        "value": "4,5"
+      },
+      {
+        "key": "aep-datastream-id",
+        "value": "298acb45-4c8e-4e71-b315-cb38d54ef742"
+      },
+      {
+        "key": "aep-org-id",
+        "value": "C7016DAB66054E810A495E7A@AdobeOrg"
+      },
+      {
+        "key": "aep-launch-url",
+        "value": "https://assets.adobedtm.com/8d0f7f3dff3a/8d832cf3161b/launch-e95ef85be81d-staging.min.js"
+      }
+    ]
+  },
+  ":version": 3,
+  ":names": [
+    "prod",
+    "preprod",
+    "sit",
+    "dev",
+    "stage"
+  ],
+  ":type": "multi-sheet"
+}
