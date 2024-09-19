@@ -19,7 +19,7 @@ import {
   waitForLCP,
 } from './aem.js';
 
-import { getConfigValue } from './configs.js';
+import { getConfig } from './configs.js';
 
 // import initializeDropins from './dropins.js';
 
